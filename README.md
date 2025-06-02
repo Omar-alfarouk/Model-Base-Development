@@ -75,7 +75,7 @@ This diploma gives you practical tools and a complete workflow to simulate, test
 ## 🤝 Credits
 
 - **Instructor:** OS Academy  
-- **Student:** Abdullah Mohamed  
+- **Student:** Omar Ahmed 
 - **Repository Maintained By:** [Abdullah Mohamed](https://github.com/AbdallahMohamedd)
 More actions
 ---
